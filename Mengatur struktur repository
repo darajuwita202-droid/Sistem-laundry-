@@ -1,0 +1,12 @@
+2. Mengatur Struktur Repository
+Struktur foldernya:
+sistem-laundry/
+├── README.md
+├── src/
+│   ├── frontend/
+│   └── backend/
+├── docs/
+│   ├── flowchart/
+│   └── diagram/
+├── database/
+└── testing/
