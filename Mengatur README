@@ -1,0 +1,27 @@
+
+Isi README.md bisa seperti:
+# Sistem Laundry
+
+## Deskripsi
+Sistem Laundry adalah aplikasi yang digunakan untuk membantu
+mengelola proses laundry, mulai dari data pelanggan, pesanan,
+status cucian, hingga pembayaran.
+
+## Anggota Kelompok
+1. Dara
+2. Cinta
+3. Ilana
+
+## Fitur
+- Data pelanggan
+- Data pesanan laundry
+- Status laundry
+- Pembayaran
+- Laporan laundry
+
+## Teknologi
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- Database
