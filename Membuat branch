@@ -1,0 +1,11 @@
+
+Gunakan beberapa branch agar pekerjaan anggota tim terpisah:
+main
+├── dara
+├── cinta
+└── ilana
+Contoh pembagian:
+main → versi utama/final
+dara → mengerjakan bagian Dara
+cinta → mengerjakan bagian Cinta
+ilana → mengerjakan bagian Ilana
